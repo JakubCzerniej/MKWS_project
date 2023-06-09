@@ -1,2 +1,2 @@
 # MKWS_project
-Ignition delay for hydrogen and alkane mixtures with air
+Ignition delay for alkane, alkene and alkyne mixtures with air
